@@ -1,0 +1,27 @@
+[
+    {
+    "title": "The Thing",
+    "release_year": "1982",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxVNfsiDiZMX1vCzivsbQIjI-qPXi_gtsuabQ2kue0bmQYtdk"
+    },
+    {
+    "title": "Raiders of the Lost Ark",
+    "release_year": "1981",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQje0ryKq-KY9fseWKXpTBKX4_sYUt6Gar9JjErzMOCA2DU_ATw"
+    },
+    {
+    "title": "Akira",
+    "release_year": "1988",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf6wAMW5FJ6P0VRoUxwiQY8lMRfI_k3icJXVIeYe6ofcI2zRVF"
+    },
+    {
+    "title": "Starship Troopers",
+    "release_year": "1997",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Starship_Troopers_-_movie_poster.jpg"
+    },
+    {
+    "title": "Minority Report",
+    "release_year": "2002",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/44/Minority_Report_Poster.jpg"
+    }
+  ]
