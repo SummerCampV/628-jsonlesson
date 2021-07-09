@@ -37,7 +37,7 @@ main > div {
     object-fit: cover;
 }
 
-@media screen and (max-width: 425px;) {
+@media screen and (max-width: 425px) {
     .movie-image {
         width: 90%;
         height: 150px;
